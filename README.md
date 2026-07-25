@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This standalone repository has been merged into the [Agentic Engineering Platform](https://github.com/Oak-22/agentic-engineering-platform) monorepo.**
+>
+> Active development now lives at [`platform/inference-telemetry-observatory`](https://github.com/Oak-22/agentic-engineering-platform/tree/main/platform/inference-telemetry-observatory). This repository is retained as a historical record; use the monorepo for current code, documentation, issues, and contributions.
+
+---
+
 # AgentOps & Token Economics Observatory
 
 Production-grade backend platform for collecting, modeling, and analyzing AI application telemetry to optimize token consumption, inference cost, latency, routing decisions, and agent execution across enterprise-scale LLM systems.
